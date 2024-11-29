@@ -1,0 +1,48 @@
+.searchId {
+    margin-bottom: 8px;
+    border-radius: 50px;
+    background-color: rgba(240, 240, 240, 0.596);
+    color: black;
+    font-size: medium;
+    width: 100%;
+}
+
+h2 {
+    cursor: default;
+    margin-left: 4px;
+    margin-right: 4px;
+}
+.container-impianti button {  
+    margin-bottom: 8px;
+    border-radius: 50px;
+    background-color: rgba(240, 240, 240, 0.596);
+    color: black;
+    font-size: medium;
+    width: 100px;
+}
+.container-impianti {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.container-impianti input {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    padding: 8px;
+    margin-bottom: 8px;
+    border-radius: 50px;
+}
+.lista-impianto {
+    text-align: center;
+}
+.macchinari-list {
+    text-align: justify;
+    border: 2px solid rgb(228, 15, 15);
+    margin-top: 8px;
+}
+lh {
+    align-items: center;
+}
